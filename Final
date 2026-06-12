@@ -1,0 +1,28 @@
+<script type="module">
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js";
+  import { getDatabase, ref, onValue, set } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-database.js";
+
+  // 🔥 CONFIGURACIÓN FIREBASE
+  const firebaseConfig = {
+    apiKey: "AIzaSyAIqd9_o9UKAswwt70XbDfz8cS5zUaGmng",
+    authDomain: "dashboard-dc7b3.firebaseapp.com",
+    databaseURL: "https://dashboard-dc7b3-default-rtdb.firebaseio.com",
+    projectId: "dashboard-dc7b3",
+    storageBucket: "dashboard-dc7b3.firebasestorage.app",
+    messagingSenderId: "589802145819",
+    appId: "1:589802145819:web:5b18e81e81c9e6223550be"
+  };
+
+  const app = initializeApp(firebaseConfig);
+  const db = getDatabase(app);
+  const dbRef = ref(db, "portfolio");
+
+  // Exponer funciones al scope global
+  window._fbSave = (data) => set(dbRef, data);
+
+  window._fbListen = (callback) =>
+    onValue(dbRef, snap => {
+      const val = snap.val();
+      if (val && Array.isArray(val.projects)) callback(val);
+    });
+</script>
