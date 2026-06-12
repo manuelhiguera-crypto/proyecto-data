@@ -1,0 +1,956 @@
+{
+  "projects": [
+    {
+      "id": "p_1779803631751_pwxr",
+      "milestones": [
+        {
+          "id": "m_1779803731837_dm26",
+          "title": "Viabilidad financiera",
+          "desc": "Revisar por parte de finanzas la viabilidad del proyecto",
+          "dateStart": "2026-05-17",
+          "dateEnd": "2026-05-25",
+          "status": "done",
+          "icon": "✅"
+        },
+        {
+          "id": "m_1779982598935_m33i",
+          "title": "Proceso Zonificación y Layout",
+          "desc": "Ingrid Hilario",
+          "dateStart": "2026-04-30",
+          "dateEnd": "2026-05-28",
+          "status": "done",
+          "icon": "✅"
+        },
+        {
+          "id": "m_1779982719814_rrr2",
+          "title": "Refinar caso de negocio",
+          "desc": "",
+          "dateStart": "2026-05-28",
+          "dateEnd": "2026-06-05",
+          "status": "pending",
+          "icon": "📋"
+        },
+        {
+          "id": "m_1779982772993_46e1",
+          "title": "Presentación Comité de inversiones",
+          "desc": "",
+          "dateStart": "2026-07-27",
+          "dateEnd": "2026-07-31",
+          "status": "pending",
+          "icon": "📋"
+        },
+        {
+          "id": "m_1779983178892_xt6i",
+          "title": "Revisión DG",
+          "desc": "",
+          "dateStart": "2026-08-03",
+          "dateEnd": "2026-08-07",
+          "status": "pending",
+          "icon": "📋"
+        },
+        {
+          "id": "m_1779983258944_2l2s",
+          "title": "Kick OFF",
+          "desc": "",
+          "dateStart": "2026-08-10",
+          "dateEnd": "2026-08-10",
+          "status": "pending",
+          "icon": "📋"
+        },
+        {
+          "id": "m_1779983325207_c3ry",
+          "title": "Matriz de requerimientos",
+          "desc": "",
+          "dateStart": "2026-08-11",
+          "dateEnd": "2026-08-18",
+          "status": "pending",
+          "icon": "📋"
+        },
+        {
+          "id": "m_1779983393646_rhzw",
+          "title": "Solicitudes PEP",
+          "desc": "",
+          "dateStart": "2026-08-19",
+          "dateEnd": "2026-08-26",
+          "status": "pending",
+          "icon": "📋"
+        },
+        {
+          "id": "m_1779983670755_tvbq",
+          "title": "Proceso administrativo obra",
+          "desc": "",
+          "dateStart": "2026-06-08",
+          "dateEnd": "2026-07-06",
+          "status": "pending",
+          "icon": "📋"
+        },
+        {
+          "id": "m_1779983744508_rbjf",
+          "title": "Ejecución Obra",
+          "desc": "",
+          "dateStart": "2026-08-28",
+          "dateEnd": "2027-01-04",
+          "status": "pending",
+          "icon": "🎯"
+        }
+      ],
+      "finances": [
+        {
+          "id": "f_1780669765583_j9pg",
+          "type": "capex",
+          "category": "Construcción",
+          "budget": 20000000,
+          "executed": 0,
+          "date": "2026-06-05",
+          "description": "Ampliación Área de Fumadores | Rezonificación HWC"
+        },
+        {
+          "id": "f_1780669789032_x69v",
+          "type": "capex",
+          "category": "Construcción",
+          "budget": 847320,
+          "executed": 0,
+          "date": "2026-06-05",
+          "description": "Optimización fumadores actual (columnas)"
+        },
+        {
+          "id": "f_1780669814207_op59",
+          "type": "capex",
+          "category": "Construcción",
+          "budget": 852898,
+          "executed": 0,
+          "date": "2026-06-05",
+          "description": "Nueva zona fumadores (zona 2)"
+        },
+        {
+          "id": "f_1780669839564_pi72",
+          "type": "capex",
+          "category": "Equipos",
+          "budget": 332500,
+          "executed": 0,
+          "date": "2026-06-05",
+          "description": "Pintura general de sala"
+        },
+        {
+          "id": "f_1780669874560_nx3p",
+          "type": "capex",
+          "category": "Equipos",
+          "budget": 2705000,
+          "executed": 0,
+          "date": "2026-06-05",
+          "description": "Cambio de Tótem por pantalla"
+        }
+      ],
+      "name": "Hollywood Constitución",
+      "sponsor": "Ismael Cuevas",
+      "department": "Máquinas y A&B",
+      "description": "Ampliación a zona 2 de fumadores, pintura general, retiro de columnas en sala de fumar, retito del escenario. Se incluyen 28 maquinas adicionales",
+      "status": "active",
+      "color": "#f59e0b",
+      "estimatedIncome": {
+        "mesas": 0,
+        "maquinas": 7436699,
+        "sportsbar": 0,
+        "ayb": 0,
+        "otros": 0
+      }
+    },
+    {
+      "id": "p_1780669009610_hspj",
+      "milestones": [
+        {
+          "id": "m_1781051295222_xya1",
+          "title": "Proyecto Ejecutivo",
+          "desc": "Ejecución de PE (entrega y revisión)",
+          "dateStart": "2025-11-03",
+          "dateEnd": "2026-03-17",
+          "status": "done",
+          "icon": "✅"
+        },
+        {
+          "id": "m_1781051352873_1jif",
+          "title": "Administrativo Obra",
+          "desc": "Asignación de proveedor constructivo y solicitud de recurso",
+          "dateStart": "2026-03-18",
+          "dateEnd": "2026-05-25",
+          "status": "done",
+          "icon": "✅"
+        },
+        {
+          "id": "m_1781051413832_oi1l",
+          "title": "Ejecución Obra",
+          "desc": "Realización de adecuaciones constructivas del proyecto",
+          "dateStart": "2026-05-26",
+          "dateEnd": "2026-10-30",
+          "status": "active",
+          "icon": "⚙️"
+        },
+        {
+          "id": "m_1781051498801_vxfr",
+          "title": "Solicitud de recursos",
+          "desc": "Solicitud de elementos PEP de las distintas áreas involucradas en el proyecto",
+          "dateStart": "2026-05-25",
+          "dateEnd": "2026-06-12",
+          "status": "active",
+          "icon": "⚙️"
+        },
+        {
+          "id": "m_1781051609207_9kyo",
+          "title": "Solicitud de suministros",
+          "desc": "Generación de OC para la solicitud de suministros del proyecto",
+          "dateStart": "2026-08-03",
+          "dateEnd": "2026-08-31",
+          "status": "pending",
+          "icon": "🔒"
+        },
+        {
+          "id": "m_1781051678552_1st0",
+          "title": "Habilitación de espacios",
+          "desc": "Preparar el espacio para la apertura a clientes",
+          "dateStart": "2026-10-19",
+          "dateEnd": "2026-11-06",
+          "status": "pending",
+          "icon": "🔒"
+        }
+      ],
+      "finances": [
+        {
+          "id": "f_1781050696145_dlbs",
+          "type": "capex",
+          "category": "Equipos",
+          "budget": 21193531,
+          "executed": 16019766,
+          "date": "2026-06-10",
+          "description": "PE + Sistema Incendios + Obra"
+        },
+        {
+          "id": "f_1781050783842_5ord",
+          "type": "capex",
+          "category": "Equipos",
+          "budget": 350000,
+          "executed": 350000,
+          "date": "2026-06-10",
+          "description": "Estación ACR (A&B)"
+        },
+        {
+          "id": "f_1781050820912_0kz8",
+          "type": "capex",
+          "category": "Otros CAPEX",
+          "budget": 605160,
+          "executed": 605160,
+          "date": "2026-06-10",
+          "description": "Alfombra"
+        },
+        {
+          "id": "f_1781050866694_pipl",
+          "type": "capex",
+          "category": "Otros CAPEX",
+          "budget": 360900,
+          "executed": 360900,
+          "date": "2026-06-10",
+          "description": "Sillas Máquinas"
+        },
+        {
+          "id": "f_1781050900043_zi0i",
+          "type": "capex",
+          "category": "Equipos",
+          "budget": 26872300,
+          "executed": 0,
+          "date": "2026-06-10",
+          "description": "Máquinas (slots)"
+        },
+        {
+          "id": "f_1781050952607_ry0m",
+          "type": "capex",
+          "category": "Equipos",
+          "budget": 1364000,
+          "executed": 0,
+          "date": "2026-06-10",
+          "description": "Sistemas Operación"
+        },
+        {
+          "id": "f_1781051010765_mcl5",
+          "type": "capex",
+          "category": "Infraestructura",
+          "budget": 2414731,
+          "executed": 0,
+          "date": "2026-06-10",
+          "description": "Infraestructura + VV"
+        },
+        {
+          "id": "f_1781051046493_5g3h",
+          "type": "capex",
+          "category": "Otros CAPEX",
+          "budget": 49042,
+          "executed": 0,
+          "date": "2026-06-10",
+          "description": "Protección Civil"
+        }
+      ],
+      "name": "Ampliación Maq - Vivento Apodaca",
+      "sponsor": "Ismael Rodriguez",
+      "department": "Máquinas",
+      "description": "Ampliación máquinas área de bodega",
+      "status": "active",
+      "color": "#3b82f6",
+      "estimatedIncome": {
+        "mesas": 0,
+        "maquinas": 36974322,
+        "sportsbar": 0,
+        "ayb": 0,
+        "otros": 0
+      }
+    },
+    {
+      "id": "p_1780669316458_6ftv",
+      "milestones": [
+        {
+          "id": "m_1781119625471_3mkg",
+          "title": "Proyecto Ejecutivo",
+          "desc": "Ejecución de PE (entrega y revisión)",
+          "dateStart": "2026-01-07",
+          "dateEnd": "2026-03-20",
+          "status": "done",
+          "icon": "✅"
+        },
+        {
+          "id": "m_1781135542037_06wh",
+          "title": "Administrativo Obra",
+          "desc": "Asignación de proveedor constructivo y solicitud de recurso",
+          "dateStart": "2026-03-20",
+          "dateEnd": "2026-05-19",
+          "status": "done",
+          "icon": "✅"
+        },
+        {
+          "id": "m_1781135555632_qkdi",
+          "title": "Solicitud de Recursos",
+          "desc": "Solicitud de elementos PEP de las distintas áreas involucradas en el proyecto",
+          "dateStart": "TBD",
+          "dateEnd": "TBD",
+          "status": "pending",
+          "icon": "⚙️"
+        },
+        {
+          "id": "m_1781135572033_z1r3",
+          "title": "Ejecución Obra",
+          "desc": "Realización de adecuaciones constructivas del proyecto",
+          "dateStart": "2026-05-19",
+          "dateEnd": "2026-10-20",
+          "status": "active",
+          "icon": "⚙️"
+        },
+        {
+          "id": "m_1781135583926_4uya",
+          "title": "Solicitud de suministros",
+          "desc": "Generación de OC para la solicitud de suministros del proyecto",
+          "dateStart": "TBD",
+          "dateEnd": "TBD",
+          "status": "pending",
+          "icon": "🔒"
+        },
+        {
+          "id": "m_1781135594566_gk59",
+          "title": "Habilitación de espacios",
+          "desc": "Preparar el espacio para la apertura a clientes",
+          "dateStart": "TBD",
+          "dateEnd": "TBD",
+          "status": "pending",
+          "icon": "🔒"
+        }
+      ],
+      "finances": [
+        {
+          "id": "f_1780669346257_f53e",
+          "type": "capex",
+          "category": "Equipos",
+          "budget": 323165,
+          "executed": 0,
+          "date": "2026-06-05",
+          "description": "Mesa + accesarios"
+        },
+        {
+          "id": "f_1781114098094_i2lw",
+          "type": "capex",
+          "category": "Construcción",
+          "budget": 678600,
+          "executed": 0,
+          "date": "2026-06-10",
+          "description": "Ejecución de obra"
+        },
+        {
+          "id": "f_1781114155362_jkxz",
+          "type": "capex",
+          "category": "Infraestructura",
+          "budget": 113379,
+          "executed": 0,
+          "date": "2026-06-10",
+          "description": "Infraestructura"
+        },
+        {
+          "id": "f_1781136243473_ddd6",
+          "type": "opex",
+          "category": "Operación",
+          "budget": 16160,
+          "executed": 0,
+          "date": "2026-06-11",
+          "description": "Producto Mesas"
+        }
+      ],
+      "name": "Ampliación mesa Baccarat - JM",
+      "sponsor": "Ismael Rodriguez",
+      "department": "Mesas",
+      "description": "Ampliación de Área de Mesas e Incorporación de Mesa Midi Baccarat – Área Caja",
+      "status": "active",
+      "color": "#3b82f6",
+      "estimatedIncome": {
+        "mesas": 1377810,
+        "maquinas": 0,
+        "sportsbar": 0,
+        "ayb": 0,
+        "otros": 0
+      }
+    },
+    {
+      "id": "p_1780669399024_rs32",
+      "milestones": [],
+      "finances": [
+        {
+          "id": "f_1780669416973_z0hy",
+          "type": "capex",
+          "category": "Construcción",
+          "budget": 64777000,
+          "executed": 0,
+          "date": "2026-06-05",
+          "description": ""
+        }
+      ],
+      "name": "Taj Mahal",
+      "sponsor": "Salvador Diaz",
+      "department": "Maquinas, Mesas, Sportsbar",
+      "description": "Ampliación Sala (fumadores + HL) + Reubicación SportsBar",
+      "status": "active",
+      "color": "#3b82f6",
+      "estimatedIncome": {
+        "maquinas": 0,
+        "ayb": 0,
+        "sportsbar": 0,
+        "mesas": 0,
+        "otros": 0
+      }
+    },
+    {
+      "id": "p_1780669459382_5qyu",
+      "milestones": [],
+      "finances": [
+        {
+          "id": "f_1780669473282_8ztd",
+          "type": "capex",
+          "category": "Equipos",
+          "budget": 120926120,
+          "executed": 0,
+          "date": "2026-06-05",
+          "description": ""
+        }
+      ],
+      "name": "Jubilee Cancún",
+      "sponsor": "Salvador Diaz",
+      "department": "Operaciones",
+      "description": "Ampliación Sala (J. Cancún)",
+      "status": "active",
+      "color": "#3b82f6",
+      "estimatedIncome": {
+        "maquinas": 0,
+        "ayb": 0,
+        "sportsbar": 0,
+        "mesas": 0,
+        "otros": 0
+      }
+    },
+    {
+      "id": "p_1780669509439_1nfl",
+      "milestones": [
+        {
+          "id": "m_1781049304556_7r07",
+          "title": "Proyecto Ejecutivo",
+          "desc": "Solicitud de recursos, ejecución y revisión del PE",
+          "dateStart": "2026-01-05",
+          "dateEnd": "2026-06-19",
+          "status": "active",
+          "icon": "⚙️"
+        },
+        {
+          "id": "m_1781049360114_aeoc",
+          "title": "Administrativo Obra",
+          "desc": "Solicitud de recurso y asignación de proveedor para la ejecución de la obra constructiva",
+          "dateStart": "2026-06-22",
+          "dateEnd": "2026-07-24",
+          "status": "pending",
+          "icon": "🔒"
+        },
+        {
+          "id": "m_1781049592521_ehx9",
+          "title": "Ejecución de Obra",
+          "desc": "Realizar las adecuaciones constructivas necesarias",
+          "dateStart": "2026-07-27",
+          "dateEnd": "2026-11-27",
+          "status": "pending",
+          "icon": "🔒"
+        },
+        {
+          "id": "m_1781049728145_of58",
+          "title": "Solicitud de recursos",
+          "desc": "Generar los elementos PEP de las áreas involucradas en el proyecto",
+          "dateStart": "2026-05-04",
+          "dateEnd": "2026-05-29",
+          "status": "done",
+          "icon": "✅"
+        },
+        {
+          "id": "m_1781049858211_kzon",
+          "title": "Viabilidad del proyecto",
+          "desc": "Viabilidad financiera del proyecto basado en las estimaciones de ingresos y presupuesto",
+          "dateStart": "2025-12-01",
+          "dateEnd": "2025-12-19",
+          "status": "done",
+          "icon": "✅"
+        },
+        {
+          "id": "m_1781049933160_9wu8",
+          "title": "Caso de Negocio",
+          "desc": "Viabilidad financiera con números reales (basado en PE)",
+          "dateStart": "2026-06-22",
+          "dateEnd": "2026-07-10",
+          "status": "pending",
+          "icon": "⚙️"
+        },
+        {
+          "id": "m_1781050066036_fs9y",
+          "title": "Solicitud de suministros",
+          "desc": "Generar las OC para la solicitud de equipos y suministros necesarios",
+          "dateStart": "2026-09-14",
+          "dateEnd": "2026-10-02",
+          "status": "pending",
+          "icon": "🔒"
+        },
+        {
+          "id": "m_1781050139750_362y",
+          "title": "Habilitación de espacios",
+          "desc": "Generar el espacio para la apertura a los clientes",
+          "dateStart": "2026-11-23",
+          "dateEnd": "2026-12-11",
+          "status": "pending",
+          "icon": "🔒"
+        }
+      ],
+      "finances": [
+        {
+          "id": "f_1781048118397_eh4f",
+          "type": "capex",
+          "category": "Construcción",
+          "budget": 3520000,
+          "executed": 573520,
+          "date": "2026-06-09",
+          "description": "PE + Obra"
+        },
+        {
+          "id": "f_1781048182912_nw4m",
+          "type": "capex",
+          "category": "Equipos",
+          "budget": 25000,
+          "executed": 28500,
+          "date": "2026-06-09",
+          "description": "BoCa"
+        },
+        {
+          "id": "f_1781048245230_swui",
+          "type": "capex",
+          "category": "Infraestructura",
+          "budget": 1215857,
+          "executed": 1215357,
+          "date": "2026-06-09",
+          "description": "Infraestructura (incluye audio)"
+        },
+        {
+          "id": "f_1781048289546_n7e3",
+          "type": "capex",
+          "category": "Otros CAPEX",
+          "budget": 100195,
+          "executed": 103272,
+          "date": "2026-06-09",
+          "description": "Inspección + PC"
+        },
+        {
+          "id": "f_1781048565964_2oko",
+          "type": "capex",
+          "category": "Equipos",
+          "budget": 525882,
+          "executed": 572682,
+          "date": "2026-06-09",
+          "description": "Producto Mesas"
+        },
+        {
+          "id": "f_1781048635053_hn87",
+          "type": "capex",
+          "category": "Equipos",
+          "budget": 43900,
+          "executed": 51150,
+          "date": "2026-06-09",
+          "description": "Soporte TI (equipos)"
+        },
+        {
+          "id": "f_1781048708825_hymf",
+          "type": "capex",
+          "category": "Equipos",
+          "budget": 131000,
+          "executed": 94000,
+          "date": "2026-06-09",
+          "description": "A&B Equipos"
+        }
+      ],
+      "name": "Privados Mesas - GL",
+      "sponsor": "Salvador Diaz",
+      "department": "Mesas",
+      "description": "Privado de Mesas Grand León",
+      "status": "active",
+      "color": "#3b82f6",
+      "estimatedIncome": {
+        "mesas": 10531236,
+        "maquinas": 0,
+        "sportsbar": 0,
+        "ayb": 0,
+        "otros": 0
+      }
+    },
+    {
+      "id": "p_1780669552987_f292",
+      "milestones": [],
+      "finances": [
+        {
+          "id": "f_1780669571009_bzjy",
+          "type": "capex",
+          "category": "Construcción",
+          "budget": 87851000,
+          "executed": 0,
+          "date": "2026-06-05",
+          "description": ""
+        }
+      ],
+      "name": "Viva México",
+      "sponsor": "Ismael Rodriguez",
+      "department": "",
+      "description": "Ampliación | Rezonificación Viva México",
+      "status": "active",
+      "color": "#3b82f6",
+      "estimatedIncome": {
+        "maquinas": 0,
+        "ayb": 0,
+        "sportsbar": 0,
+        "mesas": 0,
+        "otros": 0
+      }
+    },
+    {
+      "id": "p_1780669653186_re7u",
+      "milestones": [],
+      "finances": [
+        {
+          "id": "f_1780669680809_66v9",
+          "type": "capex",
+          "category": "Construcción",
+          "budget": 100000000,
+          "executed": 0,
+          "date": "2026-06-05",
+          "description": ""
+        }
+      ],
+      "name": "Jubilee Zapopan",
+      "sponsor": "Salvador Diaz",
+      "department": "Operaciones",
+      "description": "Nueva Apertura",
+      "status": "active",
+      "color": "#f59e0b",
+      "estimatedIncome": {
+        "maquinas": 0,
+        "ayb": 0,
+        "sportsbar": 0,
+        "mesas": 0,
+        "otros": 0
+      }
+    },
+    {
+      "id": "p_1780669964848_5duk",
+      "milestones": [
+        {
+          "id": "m_1780670013373_x8pm",
+          "title": "Refuerzo escenario",
+          "desc": "",
+          "dateStart": "TBD",
+          "dateEnd": "TBD",
+          "status": "pending",
+          "icon": "📋"
+        },
+        {
+          "id": "m_1780670027237_v48h",
+          "title": "Remodelación estacionamiento",
+          "desc": "",
+          "dateStart": "TBD",
+          "dateEnd": "TBD",
+          "status": "pending",
+          "icon": "📋"
+        },
+        {
+          "id": "m_1780670039602_wgfn",
+          "title": "Paisajismo",
+          "desc": "",
+          "dateStart": "TBD",
+          "dateEnd": "TBD",
+          "status": "pending",
+          "icon": "📋"
+        },
+        {
+          "id": "m_1780670047294_ermw",
+          "title": "Reubicación cuartos de basura",
+          "desc": "",
+          "dateStart": "TBD",
+          "dateEnd": "TBD",
+          "status": "pending",
+          "icon": "📋"
+        },
+        {
+          "id": "m_1780670054808_cudr",
+          "title": "Almacén Único",
+          "desc": "",
+          "dateStart": "TBD",
+          "dateEnd": "TBD",
+          "status": "pending",
+          "icon": "📋"
+        },
+        {
+          "id": "m_1780670063782_jp9i",
+          "title": "Remodelación camaras de conservación y espacio de procesos en cocina",
+          "desc": "",
+          "dateStart": "TBD",
+          "dateEnd": "TBD",
+          "status": "pending",
+          "icon": "📋"
+        },
+        {
+          "id": "m_1780670073951_l8es",
+          "title": "Espacios Dignos (Golden)",
+          "desc": "",
+          "dateStart": "TBD",
+          "dateEnd": "TBD",
+          "status": "pending",
+          "icon": "📋"
+        },
+        {
+          "id": "m_1780670085775_gezq",
+          "title": "Pantalla 100\" (Golden Island)",
+          "desc": "",
+          "dateStart": "TBD",
+          "dateEnd": "TBD",
+          "status": "pending",
+          "icon": "📋"
+        },
+        {
+          "id": "m_1780670094152_sobo",
+          "title": "Radiofrecuencias (Golden Island)",
+          "desc": "",
+          "dateStart": "TBD",
+          "dateEnd": "TBD",
+          "status": "pending",
+          "icon": "📋"
+        }
+      ],
+      "finances": [],
+      "name": "Golden Island",
+      "sponsor": "Salvador Diaz",
+      "department": "Operaciones",
+      "description": "Ampliación / Remodelación",
+      "status": "pending",
+      "color": "#3b82f6",
+      "estimatedIncome": {
+        "maquinas": 0,
+        "ayb": 0,
+        "sportsbar": 0,
+        "mesas": 0,
+        "otros": 0
+      }
+    },
+    {
+      "id": "p_1780670215283_5g07",
+      "milestones": [],
+      "finances": [
+        {
+          "id": "f_1780670231445_5v9r",
+          "type": "capex",
+          "category": "Equipos",
+          "budget": 3000000,
+          "executed": 0,
+          "date": "2026-06-05",
+          "description": ""
+        }
+      ],
+      "name": "Hollywood Valle Alto",
+      "sponsor": "Ismael Cuevas",
+      "department": "A&B, Sportsbar, Mesas",
+      "description": "Reubicación y crecimiento de restaurante + SportBar + Ampliación área de mesas",
+      "status": "pending",
+      "color": "#f59e0b",
+      "estimatedIncome": {
+        "maquinas": 0,
+        "ayb": 0,
+        "sportsbar": 0,
+        "mesas": 0,
+        "otros": 0
+      }
+    },
+    {
+      "id": "p_1780670533080_yfis",
+      "milestones": [],
+      "finances": [],
+      "name": "Paradise. Ampliación HL, Cocina y Colaboradores",
+      "sponsor": "",
+      "department": "",
+      "description": "",
+      "status": "pending",
+      "color": "#f59e0b",
+      "estimatedIncome": {
+        "maquinas": 0,
+        "ayb": 0,
+        "sportsbar": 0,
+        "mesas": 0,
+        "otros": 0
+      }
+    },
+    {
+      "id": "p_1780670721229_wqs7",
+      "milestones": [
+        {
+          "id": "m_1781120228598_6kkr",
+          "title": "Proyecto Ejecutivo",
+          "desc": "Ejecución de PE (entrega y revisión)",
+          "dateStart": "2026-04-23",
+          "dateEnd": "2026-06-19",
+          "status": "active",
+          "icon": "🚀"
+        },
+        {
+          "id": "m_1781120378299_tnr6",
+          "title": "Administrativo Obra",
+          "desc": "Asignación de proveedor constructivo y solicitud de recurso",
+          "dateStart": "2026-06-19",
+          "dateEnd": "2026-06-27",
+          "status": "pending",
+          "icon": "📋"
+        },
+        {
+          "id": "m_1781120394591_noug",
+          "title": "Solicitud de Recursos",
+          "desc": "Solicitud de elementos PEP de las distintas áreas involucradas en el proyecto",
+          "dateStart": "TBD",
+          "dateEnd": "TBD",
+          "status": "pending",
+          "icon": "⚙️"
+        },
+        {
+          "id": "m_1781120434558_h1yb",
+          "title": "Ejecución Obra",
+          "desc": "Realización de adecuaciones constructivas del proyecto",
+          "dateStart": "2026-06-27",
+          "dateEnd": "2026-08-21",
+          "status": "pending",
+          "icon": "⚙️"
+        },
+        {
+          "id": "m_1781120453494_ggpm",
+          "title": "Solicitud de suministros",
+          "desc": "Generación de OC para la solicitud de suministros del proyecto",
+          "dateStart": "TBD",
+          "dateEnd": "TBD",
+          "status": "pending",
+          "icon": "🔒"
+        },
+        {
+          "id": "m_1781120477565_qzt1",
+          "title": "Habilitación de espacios",
+          "desc": "Preparar el espacio para la apertura a clientes",
+          "dateStart": "TBD",
+          "dateEnd": "TBD",
+          "status": "pending",
+          "icon": "🔒"
+        }
+      ],
+      "finances": [
+        {
+          "id": "f_1781126020504_bb1h",
+          "type": "capex",
+          "category": "Equipos",
+          "budget": 1000000,
+          "executed": 0,
+          "date": "2026-06-10",
+          "description": "Video Vigilancia"
+        },
+        {
+          "id": "f_1781126064614_g454",
+          "type": "capex",
+          "category": "Infraestructura",
+          "budget": 1500000,
+          "executed": 0,
+          "date": "2026-06-10",
+          "description": "TI - Infraestructura"
+        },
+        {
+          "id": "f_1781126091290_bftp",
+          "type": "capex",
+          "category": "Equipos",
+          "budget": 1000000,
+          "executed": 0,
+          "date": "2026-06-10",
+          "description": "Producto AyB"
+        },
+        {
+          "id": "f_1781126882284_onps",
+          "type": "capex",
+          "category": "Equipos",
+          "budget": 18244400,
+          "executed": 0,
+          "date": "2026-06-10",
+          "description": "Producto Maquinas"
+        },
+        {
+          "id": "f_1781126907841_u3m4",
+          "type": "capex",
+          "category": "Construcción",
+          "budget": 62201000,
+          "executed": 0,
+          "date": "2026-06-10",
+          "description": "Ejecución Obra"
+        },
+        {
+          "id": "f_1781127205543_53tz",
+          "type": "opex",
+          "category": "Otros OPEX",
+          "budget": 249159,
+          "executed": 0,
+          "date": "2026-06-10",
+          "description": "Capital Humano"
+        }
+      ],
+      "name": "Ampliación Viva México",
+      "sponsor": "Ismael Rodriguez",
+      "department": "Ampliación | Rezonificación Viva México",
+      "description": "",
+      "status": "active",
+      "color": "#3b82f6",
+      "estimatedIncome": {
+        "mesas": 0,
+        "maquinas": 23096297,
+        "sportsbar": 0,
+        "ayb": 0,
+        "otros": 0
+      }
+    }
+  ]
+}
